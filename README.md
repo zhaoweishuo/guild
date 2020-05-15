@@ -54,5 +54,5 @@
 * 基础GP参与衰减计算，但GP最小值不低于基础GP。
 
 #### 工会EPGP基础设定
-***活动第五周开始，新入团成员需要EP达到500才能“需求”***
+* 活动第五周开始，新入团成员需要EP达到500才能“需求”
 * [TAQ阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
