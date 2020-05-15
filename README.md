@@ -40,7 +40,7 @@
 * 恶意OT导致灭团，扣10点EP
 
 ## :book:公会EPGP制度
-***EPGP***是什么？
+#### EPGP是什么？
 
 * 指路NGA：[EPGP制度详解](https://ngabbs.com/read.php?&tid=18224489)
 * <u>简而言之，dkp团采用加减制确认优先级，而EPGP采用除法计算</u>
