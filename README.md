@@ -73,4 +73,4 @@
 * 关于“跨天赋”，跨天赋只能“贪婪”，不符合当前天赋的装备“需求”会被视为无效竞争
 * 关于武器“需求”限制，从公会活动获得，不包含自己在外购买或者进团前已有。
 * ***在读秒结束后，因个人问题完成没有参加需求竞争者，不予重拍***
-* [TAQ阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
+* [TAQ阶段EP分值设定及装备获取规定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
