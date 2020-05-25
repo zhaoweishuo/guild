@@ -78,7 +78,6 @@
     * 多位"需求"者PR及EP均相同时，由掉落BOSS(小怪掉落由最近down掉Boss)的伤害/治疗数据排名决定优先级							
     * 多位"需求"者PR及EP均相同时，且"需求"者职责(坦克/输出/治疗)不同，则由各职责中优先级最高者ROLL(坦克优先级为MT>其他T)							
 * ***在读秒结束后，因个人问题完成没有参加需求竞争者，不予重拍***
-* [TAQ阶段EP分值设定及装备获取规定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
 * 关于橙杖的分数设定
     * 从工会首次安其拉活动开始活动出勤率达95%
     * WCL best avg 90以上，medium avg 75以上
@@ -88,3 +87,6 @@
     * 橙杖获取顺序决定后当前顺位的碎片拾取者如果在naxx的战斗中出现恶意划水 无故多次缺勤者 取消资格
     * 橙杖获取第一，二顺位者不允许需求naxx任何武器
     * 橙杖当前顺位者在捡碎片期间的分数获取待定,基本上在捡碎片期间无法获取任何naxx装备
+* [副本boss基础分值及装备获取规定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/LTzRA)
+* [BWl阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/Ku58i)
+* [TAQ阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
