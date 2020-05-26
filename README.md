@@ -90,3 +90,4 @@
 * [副本boss基础分值及装备获取规定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/LTzRA)
 * [BWl阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/Ku58i)
 * [TAQ阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
+* 安其拉开启后 BWL不在进行工会活动 NAXX开启后待定
