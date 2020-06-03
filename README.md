@@ -55,6 +55,7 @@
 惩罚：
 * ADD导致灭团，扣10点EP
 * 恶意OT导致灭团，扣10点EP
+* [团本debuff dot 要求](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/0h9tm)
 
 ## :book:公会EPGP制度
 #### EPGP是什么？
