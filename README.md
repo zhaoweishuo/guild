@@ -92,6 +92,6 @@
     * 橙杖获取第一，二顺位者不允许需求naxx任何武器
     * 橙杖当前顺位者在捡碎片期间的分数获取待定，基本上在捡碎片期间无法获取任何naxx装备
 * [副本boss基础分值及装备获取规定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/LTzRA)
-* [BWl阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/Ku58i)
-* [TAQ阶段EP分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
+* [BWl阶段分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/Ku58i)
+* [TAQ阶段分值设定](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/MODOC)
 * 安其拉开启后 BWL不在进行EPGP的工会活动 NAXX开启后待定
