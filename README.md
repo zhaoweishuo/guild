@@ -57,7 +57,7 @@
 * 恶意OT导致灭团，扣10点EP
 * [团本debuff dot 要求](https://shimo.im/sheets/GTkJGQvXdgP3CtyK/0h9tm)
 
-## :book:公会EPGP制度
+## :book:  公会EPGP制度
 #### EPGP是什么？
 
 * 指路NGA：[EPGP制度详解](https://ngabbs.com/read.php?&tid=18224489)
@@ -66,7 +66,7 @@
 * EP(贡献点)：可理解为DKP，参加团队活动获得
 * GP(装备点)：团员获得装备，即增加相应GP分数
 * 在EPGP制度中不存在喊分竞标，分配员宣布竞拍后，团员选择“需求”或“放弃”，插件统计所有“需求”团员后，计算PR(装备优先权)后决定归属。
-* [EPGP插件下载](https://pan.baidu.com/s/1T-Tw44Ce8Th9rqb7JXv--w) 提取码：esdg
+* [EPGP插件下载](https://pan.baidu.com/s/1T-Tw44Ce8Th9rqb7JXv--w) 解压到World of Warcraft\_classic_\Interface\AddOns\ 内含文字反和谐
 
 #### EPGP机制：衰减
 * 每周衰减10%的EP和GP，但PR值保持不变。
